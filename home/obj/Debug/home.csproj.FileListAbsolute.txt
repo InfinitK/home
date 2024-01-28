@@ -1,0 +1,10 @@
+C:\Users\Karl Alen Andrada\source\repos\home\home\bin\Debug\home.exe.config
+C:\Users\Karl Alen Andrada\source\repos\home\home\bin\Debug\home.exe
+C:\Users\Karl Alen Andrada\source\repos\home\home\bin\Debug\home.pdb
+C:\Users\Karl Alen Andrada\source\repos\home\home\obj\Debug\home.csproj.AssemblyReference.cache
+C:\Users\Karl Alen Andrada\source\repos\home\home\obj\Debug\home.Form1.resources
+C:\Users\Karl Alen Andrada\source\repos\home\home\obj\Debug\home.Properties.Resources.resources
+C:\Users\Karl Alen Andrada\source\repos\home\home\obj\Debug\home.csproj.GenerateResource.cache
+C:\Users\Karl Alen Andrada\source\repos\home\home\obj\Debug\home.csproj.CoreCompileInputs.cache
+C:\Users\Karl Alen Andrada\source\repos\home\home\obj\Debug\home.exe
+C:\Users\Karl Alen Andrada\source\repos\home\home\obj\Debug\home.pdb
